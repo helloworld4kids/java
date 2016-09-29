@@ -1,2 +1,3 @@
 # java
-HelloWorld4Kids_java
+Hello Kids,
+Another HelloWorld made in Java
